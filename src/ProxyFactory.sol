@@ -21,7 +21,7 @@
 // private
 // view & pure functions
 
-pragma solidity 0.8.21;
+pragma solidity ^0.4.24;
 
 import {Ownable} from "openzeppelin/access/Ownable.sol";
 import {ECDSA} from "openzeppelin/utils/cryptography/ECDSA.sol";
