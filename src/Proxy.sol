@@ -21,7 +21,7 @@
 // private
 // view & pure functions
 
-pragma solidity 0.8.21;
+pragma solidity ^0.4.24;
 
 /**
  * @title Proxy contract
